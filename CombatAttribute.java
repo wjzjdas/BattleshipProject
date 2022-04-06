@@ -1,5 +1,7 @@
 package FinalProject;
 
+//Made by Eddie Fan
+
 public class CombatAttribute {
 
 	
