@@ -1,5 +1,7 @@
 package FinalProject;
 
+//Made by Eddie Fan, Tong Su, Donghui Yu
+
 import java.util.*;
 import java.awt.*;
 import javax.swing.*;
