@@ -1,4 +1,4 @@
-package FinalProject;
+
 
 //Made by Eddie Fan, Tong Su, Donghui Yu
 
@@ -9,7 +9,7 @@ import java.awt.event.*;
 import java.io.*;
 
 
-@SuppressWarnings("serial")
+
 public class battleshipProject extends JFrame implements ActionListener {
 		
 	//create and initialize both boards:
