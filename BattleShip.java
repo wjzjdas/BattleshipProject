@@ -1,5 +1,7 @@
 package FinalProject;
 
+//Made by Donghui Yu
+
 public class BattleShip {
 	//begin with upper
 	
